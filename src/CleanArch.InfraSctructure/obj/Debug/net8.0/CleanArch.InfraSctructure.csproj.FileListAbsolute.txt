@@ -1,0 +1,11 @@
+D:\Demos Dev\DemoArchApi\src\CleanArch.InfraSctructure\bin\Debug\net8.0\CleanArch.InfraSctructure.deps.json
+D:\Demos Dev\DemoArchApi\src\CleanArch.InfraSctructure\bin\Debug\net8.0\CleanArch.InfraSctructure.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.InfraSctructure\bin\Debug\net8.0\CleanArch.InfraSctructure.pdb
+D:\Demos Dev\DemoArchApi\src\CleanArch.InfraSctructure\obj\Debug\net8.0\CleanArch.InfraSctructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demos Dev\DemoArchApi\src\CleanArch.InfraSctructure\obj\Debug\net8.0\CleanArch.InfraSctructure.AssemblyInfoInputs.cache
+D:\Demos Dev\DemoArchApi\src\CleanArch.InfraSctructure\obj\Debug\net8.0\CleanArch.InfraSctructure.AssemblyInfo.cs
+D:\Demos Dev\DemoArchApi\src\CleanArch.InfraSctructure\obj\Debug\net8.0\CleanArch.InfraSctructure.csproj.CoreCompileInputs.cache
+D:\Demos Dev\DemoArchApi\src\CleanArch.InfraSctructure\obj\Debug\net8.0\CleanArch.InfraSctructure.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.InfraSctructure\obj\Debug\net8.0\refint\CleanArch.InfraSctructure.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.InfraSctructure\obj\Debug\net8.0\CleanArch.InfraSctructure.pdb
+D:\Demos Dev\DemoArchApi\src\CleanArch.InfraSctructure\obj\Debug\net8.0\ref\CleanArch.InfraSctructure.dll

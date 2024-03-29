@@ -1,0 +1,17 @@
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Persistence.deps.json
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Persistence.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Persistence.pdb
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.AssemblyInfoInputs.cache
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.AssemblyInfo.cs
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.csproj.CoreCompileInputs.cache
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\refint\CleanArch.Persistence.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.pdb
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\ref\CleanArch.Persistence.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Persistence.runtimeconfig.json
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Domain.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Domain.pdb
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.csproj.AssemblyReference.cache
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.csproj.CopyComplete
+D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.genruntimeconfig.cache

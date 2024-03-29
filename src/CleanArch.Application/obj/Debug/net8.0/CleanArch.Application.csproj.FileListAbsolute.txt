@@ -1,0 +1,15 @@
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.deps.json
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.pdb
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfoInputs.cache
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfo.cs
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\obj\Debug\net8.0\refint\CleanArch.Application.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.pdb
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\obj\Debug\net8.0\ref\CleanArch.Application.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.dll
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.pdb
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.AssemblyReference.cache
+D:\Demos Dev\DemoArchApi\src\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CopyComplete
