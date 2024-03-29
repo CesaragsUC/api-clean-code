@@ -1827,6 +1827,20 @@
           "bin/placeholder/CleanArch.Domain.dll": {}
         }
       },
+      "CleanArch.InfraSctructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CleanArch.Application": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.InfraSctructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.InfraSctructure.dll": {}
+        }
+      },
       "CleanArch.Persistence/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -4918,6 +4932,11 @@
       "path": "../CleanArch.Domain/CleanArch.Domain.csproj",
       "msbuildProject": "../CleanArch.Domain/CleanArch.Domain.csproj"
     },
+    "CleanArch.InfraSctructure/1.0.0": {
+      "type": "project",
+      "path": "../CleanArch.InfraSctructure/CleanArch.InfraSctructure.csproj",
+      "msbuildProject": "../CleanArch.InfraSctructure/CleanArch.InfraSctructure.csproj"
+    },
     "CleanArch.Persistence/1.0.0": {
       "type": "project",
       "path": "../CleanArch.Persistence/CleanArch.Persistence.csproj",
@@ -4927,6 +4946,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "CleanArch.Application >= 1.0.0",
+      "CleanArch.InfraSctructure >= 1.0.0",
       "CleanArch.Persistence >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.2",
       "Swashbuckle.AspNetCore >= 6.4.0"
@@ -4968,6 +4988,9 @@
           "projectReferences": {
             "D:\\api-clean-code\\src\\CleanArch.Application\\CleanArch.Application.csproj": {
               "projectPath": "D:\\api-clean-code\\src\\CleanArch.Application\\CleanArch.Application.csproj"
+            },
+            "D:\\api-clean-code\\src\\CleanArch.InfraSctructure\\CleanArch.InfraSctructure.csproj": {
+              "projectPath": "D:\\api-clean-code\\src\\CleanArch.InfraSctructure\\CleanArch.InfraSctructure.csproj"
             },
             "D:\\api-clean-code\\src\\CleanArch.Persistence\\CleanArch.Persistence.csproj": {
               "projectPath": "D:\\api-clean-code\\src\\CleanArch.Persistence\\CleanArch.Persistence.csproj"

@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CleanArch.Application\CleanArch.Application.csproj" />
+    <ProjectReference Include="..\CleanArch.InfraSctructure\CleanArch.InfraSctructure.csproj" />
     <ProjectReference Include="..\CleanArch.Persistence\CleanArch.Persistence.csproj" />
   </ItemGroup>
 

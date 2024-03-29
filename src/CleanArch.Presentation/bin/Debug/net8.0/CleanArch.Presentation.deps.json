@@ -9,6 +9,7 @@
       "CleanArch.Presentation/1.0.0": {
         "dependencies": {
           "CleanArch.Application": "1.0.0",
+          "CleanArch.InfraSctructure": "1.0.0",
           "CleanArch.Persistence": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.2",
           "Swashbuckle.AspNetCore": "6.4.0"
@@ -1114,6 +1115,15 @@
           "CleanArch.Domain.dll": {}
         }
       },
+      "CleanArch.InfraSctructure/1.0.0": {
+        "dependencies": {
+          "CleanArch.Application": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "runtime": {
+          "CleanArch.InfraSctructure.dll": {}
+        }
+      },
       "CleanArch.Persistence/1.0.0": {
         "dependencies": {
           "CleanArch.Domain": "1.0.0",
@@ -1775,6 +1785,11 @@
       "sha512": ""
     },
     "CleanArch.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.InfraSctructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

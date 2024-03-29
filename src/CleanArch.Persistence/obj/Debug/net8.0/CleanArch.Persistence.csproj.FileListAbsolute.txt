@@ -15,3 +15,21 @@ D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Do
 D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.csproj.AssemblyReference.cache
 D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.csproj.CopyComplete
 D:\Demos Dev\DemoArchApi\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.genruntimeconfig.cache
+D:\api-clean-code\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Persistence.deps.json
+D:\api-clean-code\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Persistence.runtimeconfig.json
+D:\api-clean-code\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Persistence.dll
+D:\api-clean-code\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Persistence.pdb
+D:\api-clean-code\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Domain.dll
+D:\api-clean-code\src\CleanArch.Persistence\bin\Debug\net8.0\CleanArch.Domain.pdb
+D:\api-clean-code\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.csproj.AssemblyReference.cache
+D:\api-clean-code\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\api-clean-code\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.AssemblyInfoInputs.cache
+D:\api-clean-code\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.AssemblyInfo.cs
+D:\api-clean-code\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.csproj.CoreCompileInputs.cache
+D:\api-clean-code\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.sourcelink.json
+D:\api-clean-code\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.csproj.CopyComplete
+D:\api-clean-code\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.dll
+D:\api-clean-code\src\CleanArch.Persistence\obj\Debug\net8.0\refint\CleanArch.Persistence.dll
+D:\api-clean-code\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.pdb
+D:\api-clean-code\src\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.genruntimeconfig.cache
+D:\api-clean-code\src\CleanArch.Persistence\obj\Debug\net8.0\ref\CleanArch.Persistence.dll

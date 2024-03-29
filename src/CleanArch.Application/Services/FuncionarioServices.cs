@@ -12,11 +12,13 @@ namespace CleanArch.Application.Services
     {
         private readonly IFuncionarioRepository _funcionarioRepository;
         private readonly IMapper _mapper;
+        private readonly IEmailService _emailService;
 
-        public FuncionarioServices(IFuncionarioRepository funcionarioRepository, IMapper mapper)
+        public FuncionarioServices(IFuncionarioRepository funcionarioRepository, IMapper mapper, IEmailService emailService)
         {
             _funcionarioRepository = funcionarioRepository;
             _mapper = mapper;
+            _emailService = emailService;
         }
 
         public async Task<Result<IEnumerable<FuncionarioDto>>> GetFuncionarios()
@@ -80,6 +82,8 @@ namespace CleanArch.Application.Services
                 var funcionario = _mapper.Map<Funcionario>(funcionarioDto);
                 await _funcionarioRepository.Create(funcionario);
 
+                await EnviarEmail(funcionario);
+
                 return await Result<bool>.SuccessAsync(default, "Cadastrado com sucesso.");
             }
             catch (Exception)
@@ -132,7 +136,15 @@ namespace CleanArch.Application.Services
             }
 
         }
+        private async Task EnviarEmail(Funcionario funcionario)
+        {
+            await _emailService.SendAsync(new EmailRequestDto
+            {
+                To = funcionario.Email,
+                Subject = "Bem vindo",
+                Body = "Seja bem vindo ao sistema"
+            });
+        }
 
- 
     }
 }

@@ -1,6 +1,6 @@
 using CleanArch.Application.Configurations;
 using CleanArch.Persistence.Configurations;
-
+using CleanArch.InfraSctructure.Configurations;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +14,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddApplication();
+builder.Services.AddInfraServices();
 
 var app = builder.Build();
 

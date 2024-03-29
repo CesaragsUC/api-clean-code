@@ -9,3 +9,15 @@ D:\Demos Dev\DemoArchApi\src\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.
 D:\Demos Dev\DemoArchApi\src\CleanArch.Domain\obj\Debug\net8.0\refint\CleanArch.Domain.dll
 D:\Demos Dev\DemoArchApi\src\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.pdb
 D:\Demos Dev\DemoArchApi\src\CleanArch.Domain\obj\Debug\net8.0\ref\CleanArch.Domain.dll
+D:\api-clean-code\src\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.deps.json
+D:\api-clean-code\src\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.dll
+D:\api-clean-code\src\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.pdb
+D:\api-clean-code\src\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\api-clean-code\src\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.AssemblyInfoInputs.cache
+D:\api-clean-code\src\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.AssemblyInfo.cs
+D:\api-clean-code\src\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
+D:\api-clean-code\src\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.sourcelink.json
+D:\api-clean-code\src\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.dll
+D:\api-clean-code\src\CleanArch.Domain\obj\Debug\net8.0\refint\CleanArch.Domain.dll
+D:\api-clean-code\src\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.pdb
+D:\api-clean-code\src\CleanArch.Domain\obj\Debug\net8.0\ref\CleanArch.Domain.dll

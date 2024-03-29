@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "P2fLgWDIap6A64j+bypUMU20ixl789CKDqNHzoBPpS7TKyCV8M/s2GhTmP2GpXBOQFPUOHDpSBCD+UUkszlYlA==",
+  "dgSpecHash": "NvCkg1Sla066Oud82O2rzm9ytGHYEhNfxunhahE/zdEi3objQYf3HQfCtR92QFtDJAg7ygXasz+/nNv/fvm7kg==",
   "success": true,
   "projectFilePath": "D:\\api-clean-code\\src\\CleanArch.InfraSctructure\\CleanArch.InfraSctructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
